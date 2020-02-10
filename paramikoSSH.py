@@ -1,8 +1,8 @@
 import paramiko
 
-user_name = "root"
-passwd = "gundam02"
-ip = "46.101.164.170"
+user_name = "monUsername"
+passwd = "monPass"
+ip = "monIP"
 
 print "Creating SSH client ....."
 
