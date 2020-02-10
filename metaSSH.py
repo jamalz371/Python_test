@@ -1,8 +1,8 @@
 import paramiko
 
-user_name = "msfadmin"
-passwd = "msfadmin"
-ip = "192.168.1.46"
+user_name = "monUsername"
+passwd = "monPass"
+ip = "monIP"
 
 print "Creating SSH client ....."
 
