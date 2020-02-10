@@ -8,7 +8,7 @@ print 'times				: ', os.times()
 print 'current directory		: ', os.curdir
 print 'parent directory		: ', os.pardir
 print 'separator			: ', os.sep
-print 'list directories 		: ', os.listdir("/home") 
+print 'list directories 		: ', os.listdir("/") 
 
 if os.path.exists("file.txt"):
 	os.remove("file.txt")
