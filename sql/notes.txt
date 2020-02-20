@@ -1,0 +1,5 @@
+
+
+insert into company (id,name,age,address,salary) values (5,'batman',21,'antarctique',10000.00);
+
+
